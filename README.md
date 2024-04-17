@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![BrandonW52's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonW52&theme=dark&show_icons=true&hide=contribs&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonW52&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonW52&layout=compact&theme=dark)
 <!--
 **BrandonW52/BrandonW52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
