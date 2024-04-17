@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonW52)](https://github.com/anuraghazra/github-readme-stats)
+![BrandonW52's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonW52&theme=dark_icons=true)
 <!--
 **BrandonW52/BrandonW52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
