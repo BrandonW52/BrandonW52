@@ -7,7 +7,6 @@ Studying Front-End Dev
 I'm currently studying Front-end Development at Code Space, and in their SDF course. I've been interested in software development as long as I've had a keyboard and my first project was modding Minecraft and it's snowballed from there.
 
 * 🌍  I'm based in Cape Town
-* 🖥️  See my portfolio at [My Temp Portfolio](http://musical-churros-cc2b10.netlify.app/)
 * 🧠  I'm learning Tailwind
 
 ### Skills
